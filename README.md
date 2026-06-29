@@ -1,5 +1,4 @@
-# portfolio-tracker-
-A simple portfolio tracker to manage and track projects, skills, and progress.
+
 # Portfolio Tracker
 
 A simple and user-friendly portfolio tracker designed to organize and track personal projects, skills, and progress in one place.
